@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Presentation", "1. Presentation", "{F2EC67E0-9981-48B8-B3B7-0A4331D8BC00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Business Domain", "2. Business Domain", "{0614D532-8A11-411C-92B2-66838810C732}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Data", "3. Data", "{71E24BD3-AABC-4DF3-B502-067E29D91306}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Shared", "4. Shared", "{FF8248D2-93F2-44B3-B2BF-A4D6ACEE4D7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.EmployeePortal.DTOModel", "Nagarro.EmployeePortal.DTOModel\Nagarro.EmployeePortal.DTOModel.csproj", "{9A7CB810-8BA9-42B5-B82F-F014DE1D9EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.EmployeePortal.Shared", "Nagarro.EmployeePortal.Shared\Nagarro.EmployeePortal.Shared.csproj", "{79893CA7-1561-49A5-93C5-CF80FC1B59A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.EmployeePortal.Data", "Nagarro.EmployeePortal.Data\Nagarro.EmployeePortal.Data.csproj", "{F2AFC928-56FD-4F02-B872-8E828FC801D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.EmployeePortal.Business", "Nagarro.EmployeePortal.Business\Nagarro.EmployeePortal.Business.csproj", "{0A461EED-2C55-401E-9690-EE6BA3AC094A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.EmployeePortal.BusinessFacades", "Nagarro.EmployeePortal.BusinessFacades\Nagarro.EmployeePortal.BusinessFacades.csproj", "{614C98A9-BC16-481C-9917-505EBDFC372A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.EmployeePortal.Console", "Nagarro.EmployeePortal.Console\Nagarro.EmployeePortal.Console.csproj", "{3F328381-272C-4CD0-BBA3-69D010323D80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nagarro.EmployeePortal.EntityDataModel", "Nagarro.EmployeePortal.EntityDataModel\Nagarro.EmployeePortal.EntityDataModel.csproj", "{45D36141-68BC-4F02-B5C1-0203FB99F1DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A7CB810-8BA9-42B5-B82F-F014DE1D9EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7CB810-8BA9-42B5-B82F-F014DE1D9EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7CB810-8BA9-42B5-B82F-F014DE1D9EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7CB810-8BA9-42B5-B82F-F014DE1D9EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79893CA7-1561-49A5-93C5-CF80FC1B59A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79893CA7-1561-49A5-93C5-CF80FC1B59A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79893CA7-1561-49A5-93C5-CF80FC1B59A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79893CA7-1561-49A5-93C5-CF80FC1B59A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2AFC928-56FD-4F02-B872-8E828FC801D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AFC928-56FD-4F02-B872-8E828FC801D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AFC928-56FD-4F02-B872-8E828FC801D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AFC928-56FD-4F02-B872-8E828FC801D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A461EED-2C55-401E-9690-EE6BA3AC094A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A461EED-2C55-401E-9690-EE6BA3AC094A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A461EED-2C55-401E-9690-EE6BA3AC094A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A461EED-2C55-401E-9690-EE6BA3AC094A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{614C98A9-BC16-481C-9917-505EBDFC372A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614C98A9-BC16-481C-9917-505EBDFC372A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614C98A9-BC16-481C-9917-505EBDFC372A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614C98A9-BC16-481C-9917-505EBDFC372A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F328381-272C-4CD0-BBA3-69D010323D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F328381-272C-4CD0-BBA3-69D010323D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F328381-272C-4CD0-BBA3-69D010323D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F328381-272C-4CD0-BBA3-69D010323D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D36141-68BC-4F02-B5C1-0203FB99F1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D36141-68BC-4F02-B5C1-0203FB99F1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D36141-68BC-4F02-B5C1-0203FB99F1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D36141-68BC-4F02-B5C1-0203FB99F1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3F328381-272C-4CD0-BBA3-69D010323D80} = {F2EC67E0-9981-48B8-B3B7-0A4331D8BC00}
+		{614C98A9-BC16-481C-9917-505EBDFC372A} = {0614D532-8A11-411C-92B2-66838810C732}
+		{0A461EED-2C55-401E-9690-EE6BA3AC094A} = {0614D532-8A11-411C-92B2-66838810C732}
+		{F2AFC928-56FD-4F02-B872-8E828FC801D0} = {71E24BD3-AABC-4DF3-B502-067E29D91306}
+		{45D36141-68BC-4F02-B5C1-0203FB99F1DD} = {71E24BD3-AABC-4DF3-B502-067E29D91306}
+		{9A7CB810-8BA9-42B5-B82F-F014DE1D9EEE} = {FF8248D2-93F2-44B3-B2BF-A4D6ACEE4D7E}
+		{79893CA7-1561-49A5-93C5-CF80FC1B59A5} = {FF8248D2-93F2-44B3-B2BF-A4D6ACEE4D7E}
+	EndGlobalSection
+EndGlobal
