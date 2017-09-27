@@ -1,0 +1,7 @@
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.BusinessFacades\bin\Debug\Nagarro.EmployeePortal.BusinessFacades.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.BusinessFacades\bin\Debug\Nagarro.EmployeePortal.BusinessFacades.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.BusinessFacades\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.BusinessFacades\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.BusinessFacades\obj\Debug\Nagarro.EmployeePortal.BusinessFacade.csprojResolveAssemblyReference.cache
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.BusinessFacades\obj\Debug\Nagarro.EmployeePortal.BusinessFacades.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.BusinessFacades\obj\Debug\Nagarro.EmployeePortal.BusinessFacades.pdb
