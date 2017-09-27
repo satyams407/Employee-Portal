@@ -1,0 +1,37 @@
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.csprojResolveAssemblyReference.cache
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal Version 2\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal without EF\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.dll
+F:\Nagarro\Freshers-Training\DotNetCode\Nagarro.EmployeePortal August Batch\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.pdb
+C:\Users\kanikabahri\Documents\Visual Studio 2015\Projects\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+C:\Users\kanikabahri\Documents\Visual Studio 2015\Projects\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+C:\Users\kanikabahri\Documents\Visual Studio 2015\Projects\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.dll
+C:\Users\kanikabahri\Documents\Visual Studio 2015\Projects\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.pdb
+C:\Users\kanikabahri\Documents\Visual Studio 2015\Projects\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.csprojResolveAssemblyReference.cache
+E:\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+E:\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+E:\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.csprojResolveAssemblyReference.cache
+E:\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.dll
+E:\Nagarro.EmployeePortal\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.pdb
+C:\Users\aastha\Desktop\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+C:\Users\aastha\Desktop\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+C:\Users\aastha\Desktop\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.csprojResolveAssemblyReference.cache
+C:\Users\aastha\Desktop\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.dll
+C:\Users\aastha\Desktop\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.pdb
+C:\Users\satyamsehgal\Documents\Visual Studio 2013\Projects\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.dll
+C:\Users\satyamsehgal\Documents\Visual Studio 2013\Projects\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\bin\Debug\Nagarro.EmployeePortal.Shared.pdb
+C:\Users\satyamsehgal\Documents\Visual Studio 2013\Projects\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.dll
+C:\Users\satyamsehgal\Documents\Visual Studio 2013\Projects\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.pdb
+C:\Users\satyamsehgal\Documents\Visual Studio 2013\Projects\Nagarro.EmployeePortal\Nagarro.EmployeePortal.Shared\obj\Debug\Nagarro.EmployeePortal.Shared.csprojResolveAssemblyReference.cache
